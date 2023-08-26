@@ -42,4 +42,4 @@ Aveți întrebări? Aveți nevoie de ajutor cu o resursă? Puteți:
 
 ## Licență
 
-Acest repozitoriu este licențiat sub [Licența MIT](LICENSE.md). Contribuind, sunteți de acord ca contribuțiile dvs. să fie licențiate în aceiași termeni.
+Acest repozitoriu este licențiat sub [Licența MIT](LICENSE). Contribuind, sunteți de acord ca contribuțiile dvs. să fie licențiate în aceiași termeni.
